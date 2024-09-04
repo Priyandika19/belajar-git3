@@ -1,0 +1,2 @@
+# landasan dasar 
+dasar codinganya
